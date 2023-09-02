@@ -25,8 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  npm install -g newman
-  npm install -g newman-reporter-html
+  cd api-reqress-newman
 ```
 
 Install dependencies
