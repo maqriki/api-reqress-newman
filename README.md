@@ -19,14 +19,14 @@ This is repository for API testing with Postman, using API from https://reqres.i
 Clone the project
 
 ```bash
-  npm install -g newman
-  npm install -g newman-reporter-html
+  git clone git remote add origin https://github.com/maqriki/api-reqress-newman.git
 ```
 
 Go to the project directory
 
 ```bash
-  git clone git remote add origin https://github.com/maqriki/api-reqress-newman.git
+  npm install -g newman
+  npm install -g newman-reporter-html
 ```
 
 Install dependencies
