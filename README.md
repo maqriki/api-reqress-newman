@@ -19,7 +19,7 @@ This is repository for API testing with Postman, using API from https://reqres.i
 Clone the project
 
 ```bash
-  git clone git remote add origin https://github.com/maqriki/api-reqress-newman.git
+  git clone https://github.com/maqriki/api-reqress-newman.git
 ```
 
 Go to the project directory
